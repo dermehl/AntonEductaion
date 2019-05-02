@@ -1,3 +1,4 @@
 print("zalypa")
-if a=b+1
-    
+name="anton"
+for letter in name:
+    print letter
